@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚙️ Main stack: React, TypeScript, Node.js
-📦 Backend: Nest.js, Express, PostgreSQL, Prisma
-🚀 Interested in product development and scalable web apps
+⚙️ Main stack: React, TypeScript, Node.js <br>
+📦 Backend: Nest.js, Express, PostgreSQL, Prisma <br>
+🚀 Interested in product development and scalable web apps <br>
