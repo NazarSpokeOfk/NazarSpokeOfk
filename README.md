@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, im spokeofk 👋
 
 <!--
 **NazarSpokeOfk/NazarSpokeOfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚙️ Main stack: React, TypeScript, Node.js
+📦 Backend: Nest.js, Express, PostgreSQL, Prisma
+🚀 Interested in product development and scalable web apps
