@@ -1,6 +1,6 @@
 ## Hi, im spokeofk 👋
 
-Frontend / Fullstack Web Developer with experience in product development and large-scale projects.
+I build modern web apps using React, TypeScript, and Node.js. I love creating tools that help people work faster and smarter.
 
 
 <!--
@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 - Improve UX and performance
 - Refactor legacy code and optimize data flow
 - Collaborate with senior developers and product teams
+
+
 
 ## 📫 Contacts
 - Telegram: @spokeofk
