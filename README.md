@@ -1,5 +1,8 @@
 ## Hi, im spokeofk 👋
 
+Frontend / Fullstack Web Developer with experience in product development and large-scale projects.
+
+
 <!--
 **NazarSpokeOfk/NazarSpokeOfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +18,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚙️ Main stack: React, TypeScript, Node.js <br>
-📦 Backend: Nest.js, Express, PostgreSQL, Prisma <br>
-🚀 Interested in product development and scalable web apps <br>
+## 🧠 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML, CSS
+- Component-driven UI
+- UX-oriented development
+  
+### Backend
+- Node.js
+- Express
+- NestJS
+- REST API
+- PostgreSQL
+- Prisma
+- Redis (basic usage)
+
+### Dev & Tools
+- Git / GitHub
+- Linux
+- Docker (basic)
+- SQL
+- API integration
+- Code refactoring & optimization
+
+## 🚀 What I Do
+- Build scalable and maintainable frontend applications
+- Develop REST APIs and backend logic
+- Improve UX and performance
+- Refactor legacy code and optimize data flow
+- Collaborate with senior developers and product teams
+
+## 📫 Contacts
+- Telegram: @spokeofk
